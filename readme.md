@@ -1,13 +1,11 @@
-# CS525 Project
 #### Author: Satya Sai Bharath Vemula (vsatyasa@purdue.edu)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Description.
-This document will help the TA understand on how replicate the results presented in the PPt.
+This document will help the reader on how replicate the results presented in the PPT.
 
 Note: All the experiments have been done in mac book air (I have given detailed steps on how to setup the environmnet).
-In case the TA still faces an issue please contact at vsatyasa@purdue.edu i can come over and give a quick demo
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
