@@ -3,9 +3,10 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Description.
-This document will help the reader on how replicate the results presented in the PPT.
 
-Note: All the experiments have been done in mac book air (I have given detailed steps on how to setup the environmnet).
+This repository presents a simple capacity / load testing tool for web servers. The Project is built using Gradle Java.
+
+Refer to the CS_525_Stress_Testing.pdf for details on a sample experiment and results.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
